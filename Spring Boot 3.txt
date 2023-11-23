@@ -1,0 +1,17 @@
+1. Java 17 Support - Sprin boot 3 uses base version a java 17 so that we can leverage all the new features of java 17
+   So for the demo, I will show you how to use Records in our project. Records are immutable classes.
+
+2.	Jakarta - From Spring boot 3, Jakarta packages are useful to create web applications.
+	In the previous version we were using javax packages.
+
+3.	Problem Details - Unique way to share error details to the client. 
+	Makes application error handling very easy.
+
+4. Spring Native - Provides funcationality to create light weight executable files that can be containerized in the any form of containerized framework. So files should occupied very less memory and provides efficiency.
+
+5.	Observability - Ability to observe how our system is behaving. We can use micrometer internally to leverage the observability.
+
+6.	HttpExchange - Provides new way to connect with other services. Allows us to call other services in the declaratie approach.
+
+
+Base version of spring boot 3 is spring framework 6.
